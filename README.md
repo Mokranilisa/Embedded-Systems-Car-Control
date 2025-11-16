@@ -1,4 +1,4 @@
-# Embedded Systems Project – Final Project Group 7
+# Embedded Systems Project 
 
 This repository contains the final project developed as part of the Embedded Systems course at the University of Genoa.  
 The project focuses on real-time control, sensor integration, and autonomous navigation for a buggy robot.
